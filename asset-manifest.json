@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.94d1b333.css",
-    "main.js": "/static/js/main.b159ac4d.js",
+    "main.js": "/static/js/main.4282caec.js",
     "static/js/453.77bd366c.chunk.js": "/static/js/453.77bd366c.chunk.js",
     "static/media/background.png": "/static/media/background.d49ab545c618b1049c52.png",
     "static/media/IstokWeb-Bold.ttf": "/static/media/IstokWeb-Bold.b254a5d5ac4a50e873ee.ttf",
-    "static/media/axios.cjs": "/static/media/axios.cd0a976556d6411f77a7.cjs",
     "index.html": "/index.html",
     "main.94d1b333.css.map": "/static/css/main.94d1b333.css.map",
-    "main.b159ac4d.js.map": "/static/js/main.b159ac4d.js.map",
+    "main.4282caec.js.map": "/static/js/main.4282caec.js.map",
     "453.77bd366c.chunk.js.map": "/static/js/453.77bd366c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d1b333.css",
-    "static/js/main.b159ac4d.js"
+    "static/js/main.4282caec.js"
   ]
 }
